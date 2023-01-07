@@ -34,6 +34,7 @@ func main(){
 	fmt.Printf("Type of %f in %T \n",smallfloat,smallfloat)
 
 	//dafault value
+	//The default value is zero, doesnt put any garbage value
 	var val uint8
 	fmt.Printf("Type of %d in %T \n",val,val)
 
